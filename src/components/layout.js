@@ -1,9 +1,10 @@
 // STANDARD BASE LAYOUT
 import React from 'react';
+import Header from './header';
 
 const Layout = ({ children }) => (
 	<>
-		<header></header>
+		<Header></Header>
 		<main>{children}</main>
 	</>
 );
