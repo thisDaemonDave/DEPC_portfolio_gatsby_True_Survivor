@@ -4,6 +4,11 @@ body {
 	color: #a1a1a1;
 	font-size: 14px;
 	line-height: 20px;
+	/*  */
+	/* overflow: scroll; */
+	background-image: url('../images/tile_2.jpg');
+	background-position: 0px 0px;
+	background-size: 400px;
 }
 
 h2 {
@@ -50,14 +55,6 @@ h2 {
 	font-weight: 400;
 	text-align: left;
 	letter-spacing: 2px;
-}
-
-.body {
-	overflow: scroll;
-	background-color: #333;
-	background-image: url('../images/tile_2.jpg');
-	background-position: 0px 0px;
-	background-size: 400px;
 }
 
 .div-block.content-card {
