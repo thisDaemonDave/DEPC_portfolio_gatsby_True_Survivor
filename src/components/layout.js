@@ -1,9 +1,10 @@
 // STANDARD BASE LAYOUT
 import React from 'react';
 
-const Layout = () => (
+const Layout = ({ children }) => (
 	<>
-		<h1>NUB</h1>
+		<header></header>
+		<main>{children}</main>
 	</>
 );
 
