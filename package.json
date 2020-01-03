@@ -1,21 +1,21 @@
 {
-  "name": "depc_portfolio_gatsby_true_survivor",
-  "version": "1.0.0",
-  "description": "Portfolio of David Pineda Designer, Developer, Gamer",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "deparadise_github:deparadise/DEPC_portfolio_gatsby_True_Survivor.git"
-  },
-  "keywords": [
-    "Node.js",
-    "Gatsby",
-    "Express",
-    "Javascript"
-  ],
-  "author": "david.pineda@deparadise.com",
-  "license": "ISC"
+	"name": "depc_portfolio_gatsby_true_survivor",
+	"version": "1.0.0",
+	"description": "Portfolio of David Pineda Designer, Developer, Gamer",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "deparadise_github:deparadise/DEPC_portfolio_gatsby_True_Survivor.git"
+	},
+	"keywords": [
+		"Node.js",
+		"Gatsby",
+		"Express",
+		"Javascript"
+	],
+	"author": "david.pineda@deparadise.com",
+	"license": "ISC"
 }
